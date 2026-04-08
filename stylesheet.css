@@ -393,7 +393,7 @@ h1, h2, h3 {
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
-  text-align: center;
+  text-align: left;
 }
 
 .why-grid > * {
@@ -402,8 +402,8 @@ h1, h2, h3 {
 
 .why-grid ul {
   margin: 0;
-  padding-left: 0;
-  list-style-position: inside;
+  padding-left: 20px;
+  list-style-position: outside;
 }
 
 /* ORDER */
@@ -569,8 +569,6 @@ footer {
 
 .footer-socials i {
   color: var(--yellow);
-  font-family: "Font Awesome 7 Brands";
-  font-weight: 400;
   font-size: 24px;
 }
 
