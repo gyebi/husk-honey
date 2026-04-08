@@ -62,3 +62,4 @@ http://localhost:8000
 - Replace placeholder or generated product labels with final photography when available.
 - Add cart state if the mini ecommerce flow grows beyond WhatsApp checkout.
 # husk-and-hive-newdesign
+# husk-and-hive-newdesign
